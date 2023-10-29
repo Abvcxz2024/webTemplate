@@ -7,7 +7,7 @@
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://Abvcxz2024.github.io/webTemplate",
+    "build-gh": "parcel build --public-url 'https://Abvcxz2024.github.io/webTemplate'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
